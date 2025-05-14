@@ -1,0 +1,11 @@
+Model Information:
+* title:	Multimetro
+* source:	https://sketchfab.com/3d-models/multimetro-89ad65e3f9da4cbaae7f32a8e1a127c6
+* author:	isel-multimedia-sensores (https://sketchfab.com/isel-multimedia-sensores)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Multimetro" (https://sketchfab.com/3d-models/multimetro-89ad65e3f9da4cbaae7f32a8e1a127c6) by isel-multimedia-sensores (https://sketchfab.com/isel-multimedia-sensores) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
